@@ -1,11 +1,3 @@
-/*
- * Compile with g++ -o screenoff.exe screenoff.cpp
- *
- * Credits:
- * - http://superuser.com/questions/321342/turn-off-display-in-windows-on-command
- * - http://www.powershellmagazine.com/2013/07/18/pstip-how-to-switch-off-display-with-powershell/
- */
-
 #include <cstdlib>
 #include <Windows.h>
 
